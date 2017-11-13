@@ -8,6 +8,6 @@ int main (int argc, char* argv[])
    for (int i=0; i< text.length(); i++)
       {
          if(text[i]==symbhol)
-         cout << i << ebdl;
+         cout << i << endl;
       }
 }
